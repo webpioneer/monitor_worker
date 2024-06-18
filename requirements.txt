@@ -1,0 +1,4 @@
+opencv-python
+ultralytics
+pika
+torch==1.10.0+cpu
